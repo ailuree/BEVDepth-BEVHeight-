@@ -1,0 +1,11 @@
+python bevdepth/exps/nuscenes/mv/bev_depth_lss_r50_256x704_128x128_24e_2key.py --amp_backend native -b 4 --gpus 2
+
+
+  | Name  | Type         | Params
+---------------------------------------
+0 | model | BaseBEVDepth | 76.4 M
+---------------------------------------
+76.4 M    Trainable params
+9.5 K     Non-trainable params
+76.4 M    Total params
+152.769   Total estimated model params size (MB)

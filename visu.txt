@@ -1,0 +1,1 @@
+python scripts/visualize_nusc.py 0 outputs/bev_depth_lss_r50_256x704_128x128_24e_2key/results_nusc.json vis_results/sample_0.png
